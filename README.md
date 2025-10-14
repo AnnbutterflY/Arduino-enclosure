@@ -1,7 +1,7 @@
 # 前言 Forward
 本次课题是为Arduino设计外壳，制作要求为
 
-This project involves designing a shell for Arduino, with the following requirements
+This project involves designing a enclosure for Arduino, with the following requirements
 
 **1、** 结合 3D 打印与激光切割技术
 
