@@ -42,35 +42,67 @@ During the production process of this project, I encountered some problems. The 
 
 I first sketched out my ideas, and then used an AI image-generation tool to create fantastic 2D images of an base and the upper part of the finished product.
 
+<p align="center">
+<img src="illustrating pictures/树根2d.jpg" alt="loading" width="400"/>
+</p>
+<p align="center">
+<img src="illustrating pictures/火龙果2d.jpg" alt="loading" width="400"/>
+</p>
+
 接下来，我寻找到了AI生成模型网站：tripo3d（我的邀请码：E93EKF），我将图片上传，然后网站自动为我生成了模型。
 
 Next, I found an AI model generation website called Tripo3D (my invitation code: E93EKF). I uploaded the images, and the site automatically generated 3D models for me.
+
+<p align="center">
+<img src="illustrating pictures/树根3d.jpg" alt="loading" width="400"/>
+</p>
+<p align="center">
+<img src="illustrating pictures/火龙果3d.jpg" alt="loading" width="400"/>
+</p>
 
 于是，我将模型进行比例的修改，并进行破面修补、模型删减，并将底座与果壳结合在一起。
 
 Then, I adjusted the proportions of the model, repaired broken surfaces, removed unnecessary parts, and combined the base with the shell.
 
+<p align="center">
+<img src="illustrating pictures/修模型1.jpg" alt="loading" width="400"/>
+</p>
+
 最终，形成了一个类似火龙果的我的作品。
 
 Eventually, my work took on the form of something resembling a dragon fruit.
+
+<p align="center">
+<img src="illustrating pictures/火龙果final.jpg" alt="loading" width="400"/>
+</p>
 
 然而，当我进入Fablab制作时，这一作品甚至难以被3D打印文件准备程序所预览，有无数需要支撑的部分，完全无法被制作、被生产。并且，我思考的将arduino放置于果壳内部的方式也不妥。更重要的是，这些设计完全没有必要。
 
 However, when I brought the model to the Fablab for fabrication, it could barely even be previewed by the 3D printing preparation software—there were countless unsupported parts, making it completely impossible to produce.Furthermore, the way I planned to place the Arduino inside the shell was impractical. More importantly, these design decisions were entirely unnecessary.
 
-在这一过程中，我将它肆意捏造形状，而非关注于物体被激光切割和3D打印的制造方式，这导致我的外壳更像一个难以被制作的个人艺术装置，而不是未来的世界中的arduino外壳制作，完全脱离了制作目的。
+<p align="center">
+<img src="illustrating pictures/失败1.jpg" alt="loading" width="400"/>
+</p>
 
-Throughout this process, I focused on arbitrarily shaping forms rather than considering how the object would actually be made through laser cutting or 3D printing. As a result, my case looked more like a personal art installation that was nearly impossible to fabricate, rather than a practical Arduino case design for a futuristic world—it completely deviated from the purpose of making.
+在这一过程中，我将它肆意捏造形状，而非关注于物体被激光切割和3D打印的制造方式，这导致我的外壳更像一个难以被制作的个人艺术装置，而不是未来的世界中的arduino外壳制作，完全脱离了制作目的。老师及时地提醒了我。在审课题时，我应该认真关注题目后的学会制造物品的意义。
 
-老师及时地提醒了我。在审课题时，我应该认真关注题目后的学会制造物品的意义。
-
-Fortunately, my instructor reminded me in time. When reviewing the project, I realized I should focus more seriously on the meaning of learning to manufacture objects.
+Throughout this process, I focused on arbitrarily shaping forms rather than considering how the object would actually be made through laser cutting or 3D printing. As a result, my case looked more like a personal art installation that was nearly impossible to fabricate, rather than a practical Arduino case design for a futuristic world—it completely deviated from the purpose of making.Fortunately, my instructor reminded me in time. When reviewing the project, I realized I should focus more seriously on the meaning of learning to manufacture objects.
 
 在经历这个过程后，我将模型重新拆分为上、下部分，将连接方式从不靠谱的打印件的捏造改为了结构穿插，并且修改了底座与外壳的形状，让他更符合未来arduino外壳的设计概念与我的未来世界规则，让他可被制造。
 
 After going through this process, I split the model back into upper and lower parts, changed the unreliable printed connections into interlocking structural ones, and modified the base and shell shapes to better fit the design concept of a futuristic Arduino case and my envisioned world—making it manufacturable.
 
-# tips:
-我的教程中仅呈现如何制作出这样一个成品arduino外壳的完整过程，撇去了设计失败并迭代的过程。
+<p align="center">
+<img src="illustrating pictures/改后.jpg" alt="loading" width="400"/>
+</p>
+<p align="center">  
+改后制作完毕的样子
+</p>  
+<p align="center">  
+The appearance after the revised version was completed.
+</p>  
 
-In my tutorial, I only present the complete process of how to make such a finished Arduino case, omitting the failed design attempts and iterations.
+# tips:
+我的教程中将会仅呈现如何制作出这样一个成品arduino外壳的完整过程，撇去了设计失败并迭代的过程。
+
+In my tutorial, I will only present the complete process of how to make such a finished Arduino case, omitting the failed design attempts and iterations.
