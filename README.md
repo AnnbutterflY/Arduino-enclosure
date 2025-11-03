@@ -34,6 +34,43 @@ Design a speculative product with future plausibility and create a shell for it,
 **Lifestyle, Daily Practices, and Core Needs:** Life is no longer centered on purchasing devices; instead, people nurture and guide devices’ growth to meet their needs. Daily actions resemble caring for plants: adjusting light, humidity, and nutrients to guide devices in growing different functional modules. Core needs have shifted from “owning devices” to “cultivating, coexisting with, and managing the growth of devices.”
 
 # 反思 Reflection
-在本次课题的制作过程中，我出现过问题。我制作的模型偏离了“HTAM”，我将它肆意捏造形状，而非着重于物体被激光切割和3d打印的制造方式，这导致我的外壳更像一个难以被制作的个人艺术装置，而不是未来的世界中的arduino外壳制作。老师及时地提醒了我。在审课题时，我应该认真关注题目后的学会制造物品的目的。
+在本次课题的制作过程中，我出现过问题。我制作的arduino外壳模型偏离了“HTAM”。
 
-During the production process of this project, I encountered the problem.My model deviated from the core idea of “HTAM.” I arbitrarily shaped it based on imagination, rather than focusing on how the object should be manufactured through laser cutting and 3D printing. As a result, my shell became more like a personal art installation that would be difficult to produce, rather than a realistic Arduino case in a future world. Fortunately, the teacher reminded me in time. When reviewing the topic, I should carefully pay attention to the purpose behind it—to learn how to manufacture objects.
+During the production process of this project, I encountered some problems. The Arduino case model I made deviated from the concept of “HTAM.”
+
+我首先构思草图，然后用AI生图工具分别生成了华丽的底座与上半部分的成品2D图片。
+
+I first sketched out my ideas, and then used an AI image-generation tool to create fantastic 2D images of an base and the upper part of the finished product.
+
+接下来，我寻找到了AI生成模型网站：tripo3d（我的邀请码：E93EKF），我将图片上传，然后网站自动为我生成了模型。
+
+Next, I found an AI model generation website called Tripo3D (my invitation code: E93EKF). I uploaded the images, and the site automatically generated 3D models for me.
+
+于是，我将模型进行比例的修改，并进行破面修补、模型删减，并将底座与果壳结合在一起。
+
+Then, I adjusted the proportions of the model, repaired broken surfaces, removed unnecessary parts, and combined the base with the shell.
+
+最终，形成了一个类似火龙果的我的作品。
+
+Eventually, my work took on the form of something resembling a dragon fruit.
+
+然而，当我进入Fablab制作时，这一作品甚至难以被3D打印文件准备程序所预览，有无数需要支撑的部分，完全无法被制作、被生产。并且，我思考的将arduino放置于果壳内部的方式也不妥。更重要的是，这些设计完全没有必要。
+
+However, when I brought the model to the Fablab for fabrication, it could barely even be previewed by the 3D printing preparation software—there were countless unsupported parts, making it completely impossible to produce.Furthermore, the way I planned to place the Arduino inside the shell was impractical. More importantly, these design decisions were entirely unnecessary.
+
+在这一过程中，我将它肆意捏造形状，而非关注于物体被激光切割和3D打印的制造方式，这导致我的外壳更像一个难以被制作的个人艺术装置，而不是未来的世界中的arduino外壳制作，完全脱离了制作目的。
+
+Throughout this process, I focused on arbitrarily shaping forms rather than considering how the object would actually be made through laser cutting or 3D printing. As a result, my case looked more like a personal art installation that was nearly impossible to fabricate, rather than a practical Arduino case design for a futuristic world—it completely deviated from the purpose of making.
+
+老师及时地提醒了我。在审课题时，我应该认真关注题目后的学会制造物品的意义。
+
+Fortunately, my instructor reminded me in time. When reviewing the project, I realized I should focus more seriously on the meaning of learning to manufacture objects.
+
+在经历这个过程后，我将模型重新拆分为上、下部分，将连接方式从不靠谱的打印件的捏造改为了结构穿插，并且修改了底座与外壳的形状，让他更符合未来arduino外壳的设计概念与我的未来世界规则，让他可被制造。
+
+After going through this process, I split the model back into upper and lower parts, changed the unreliable printed connections into interlocking structural ones, and modified the base and shell shapes to better fit the design concept of a futuristic Arduino case and my envisioned world—making it manufacturable.
+
+# tips:
+我的教程中仅呈现如何制作出这样一个成品arduino外壳的完整过程，撇去了设计失败并迭代的过程。
+
+In my tutorial, I only present the complete process of how to make such a finished Arduino case, omitting the failed design attempts and iterations.
