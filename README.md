@@ -44,8 +44,6 @@ I first sketched out my ideas, and then used an AI image-generation tool to crea
 
 <p align="center">
 <img src="illustrating pictures/bf8ba6dca8c774b552e6b6ffcbc9d2c5.jpg" alt="loading" width="400"/>
-</p>
-<p align="center">
 <img src="illustrating pictures/c28b0ea0332b8c3a89534ffa06e390b7.png" alt="loading" width="400"/>
 </p>
 
@@ -55,18 +53,13 @@ Next, I found an AI model generation website called Tripo3D (my invitation code:
 
 <p align="center">
 <img src="illustrating pictures/3d82a9be963ff4c387faa2784ed8cf53.png" alt="loading" width="400"/>
-</p>
-<p align="center">
-<img src="illustrating pictures/3773883ee094ead7c70a228385b60847.pngg" alt="loading" width="400"/>
+<img src="illustrating pictures/3773883ee094ead7c70a228385b60847.png" alt="loading" width="400"/>
 </p>
 
 于是，我将模型进行比例的修改，并进行破面修补、模型删减，并将底座与果壳结合在一起。
 
 Then, I adjusted the proportions of the model, repaired broken surfaces, removed unnecessary parts, and combined the base with the shell.
 
-<p align="center">
-<img src="illustrating pictures/修模型1.jpg" alt="loading" width="400"/>
-</p>
 
 最终，形成了一个类似火龙果的我的作品。
 
@@ -93,7 +86,7 @@ Throughout this process, I focused on arbitrarily shaping forms rather than cons
 After going through this process, I split the model back into upper and lower parts, changed the unreliable printed connections into interlocking structural ones, and modified the base and shell shapes to better fit the design concept of a futuristic Arduino case and my envisioned world—making it manufacturable.
 
 <p align="center">
-<img src="iillustrating pictures/ee233ef557a6190b47614b1b87cc25a2.jpg" alt="loading" width="400"/>
+<img src="illustrating pictures/1.jpg" alt="loading" width="400"/>
 </p>
 <p align="center">  
 改后制作完毕的样子
