@@ -43,10 +43,10 @@ During the production process of this project, I encountered some problems. The 
 I first sketched out my ideas, and then used an AI image-generation tool to create fantastic 2D images of an base and the upper part of the finished product.
 
 <p align="center">
-<img src="illustrating pictures/树根2d.jpg" alt="loading" width="400"/>
+<img src="illustrating pictures/bf8ba6dca8c774b552e6b6ffcbc9d2c5.jpg" alt="loading" width="400"/>
 </p>
 <p align="center">
-<img src="illustrating pictures/火龙果2d.jpg" alt="loading" width="400"/>
+<img src="illustrating pictures/c28b0ea0332b8c3a89534ffa06e390b7.png" alt="loading" width="400"/>
 </p>
 
 接下来，我寻找到了AI生成模型网站：tripo3d（我的邀请码：E93EKF），我将图片上传，然后网站自动为我生成了模型。
@@ -54,10 +54,10 @@ I first sketched out my ideas, and then used an AI image-generation tool to crea
 Next, I found an AI model generation website called Tripo3D (my invitation code: E93EKF). I uploaded the images, and the site automatically generated 3D models for me.
 
 <p align="center">
-<img src="illustrating pictures/树根3d.jpg" alt="loading" width="400"/>
+<img src="illustrating pictures/3d82a9be963ff4c387faa2784ed8cf53.png" alt="loading" width="400"/>
 </p>
 <p align="center">
-<img src="illustrating pictures/火龙果3d.jpg" alt="loading" width="400"/>
+<img src="illustrating pictures/3773883ee094ead7c70a228385b60847.pngg" alt="loading" width="400"/>
 </p>
 
 于是，我将模型进行比例的修改，并进行破面修补、模型删减，并将底座与果壳结合在一起。
@@ -73,7 +73,7 @@ Then, I adjusted the proportions of the model, repaired broken surfaces, removed
 Eventually, my work took on the form of something resembling a dragon fruit.
 
 <p align="center">
-<img src="illustrating pictures/火龙果final.jpg" alt="loading" width="400"/>
+<img src="illustrating pictures/ee233ef557a6190b47614b1b87cc25a2.jpg" alt="loading" width="400"/>
 </p>
 
 然而，当我进入Fablab制作时，这一作品甚至难以被3D打印文件准备程序所预览，有无数需要支撑的部分，完全无法被制作、被生产。并且，我思考的将arduino放置于果壳内部的方式也不妥。更重要的是，这些设计完全没有必要。
@@ -81,7 +81,7 @@ Eventually, my work took on the form of something resembling a dragon fruit.
 However, when I brought the model to the Fablab for fabrication, it could barely even be previewed by the 3D printing preparation software—there were countless unsupported parts, making it completely impossible to produce.Furthermore, the way I planned to place the Arduino inside the shell was impractical. More importantly, these design decisions were entirely unnecessary.
 
 <p align="center">
-<img src="illustrating pictures/失败1.jpg" alt="loading" width="400"/>
+<img src="illustrating pictures/d7f447a7f4e0722e18b1433db7ff435a.png" alt="loading" width="400"/>
 </p>
 
 在这一过程中，我将它肆意捏造形状，而非关注于物体被激光切割和3D打印的制造方式，这导致我的外壳更像一个难以被制作的个人艺术装置，而不是未来的世界中的arduino外壳制作，完全脱离了制作目的。老师及时地提醒了我。在审课题时，我应该认真关注题目后的学会制造物品的意义。
@@ -93,7 +93,7 @@ Throughout this process, I focused on arbitrarily shaping forms rather than cons
 After going through this process, I split the model back into upper and lower parts, changed the unreliable printed connections into interlocking structural ones, and modified the base and shell shapes to better fit the design concept of a futuristic Arduino case and my envisioned world—making it manufacturable.
 
 <p align="center">
-<img src="illustrating pictures/改后.jpg" alt="loading" width="400"/>
+<img src="iillustrating pictures/ee233ef557a6190b47614b1b87cc25a2.jpg" alt="loading" width="400"/>
 </p>
 <p align="center">  
 改后制作完毕的样子
